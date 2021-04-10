@@ -1,2 +1,2 @@
 # Number-guessing-game
-gaming
+gaming development
